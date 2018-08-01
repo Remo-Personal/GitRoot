@@ -1,5 +1,4 @@
+# GitRoot
 #Feature_001_Branch
-Forgot to add Release Notes: Alex
-06/19/2018 10:40 PM
---Merged: Adding local content
-
+#08/01/2018 New Changes made here.
+This comment is added in the Release Branch- Show How to merge this changes to lower environment.
